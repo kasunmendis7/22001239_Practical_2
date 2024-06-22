@@ -1,0 +1,462 @@
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@7cb530f8]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@1ee687e4]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@7cb530f8]
+2024.06.23 04:34:26 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
+2024.06.23 04:34:27 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:34:28 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:34:30 INFO  Running List(/home/kasun_mendis/.local/share/coursier/bin/scala-cli, setup-ide, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2)[0m
+2024.06.23 04:34:30 INFO  Attempting to connect to the build server...[0m
+2024.06.23 04:34:30 INFO  Running BSP server List(/home/kasun_mendis/.local/share/coursier/bin/.scala-cli.aux, bsp, --json-options, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/.scala-build/ide-options-v2.json, --json-launcher-options, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/.scala-build/ide-launcher-options.json, --envs-file, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/.scala-build/ide-envs.json, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2)[0m
+2024.06.23 04:34:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/.metals/bsp.trace.json or /home/kasun_mendis/.cache/metals/bsp.trace.json[0m
+Jun 23, 2024 4:34:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2024.06.23 04:34:33 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+Jun 23, 2024 4:34:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+Jun 23, 2024 4:34:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+Jun 23, 2024 4:34:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+2024.06.23 04:34:33 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:34:33 WARN  no build target for: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala[0m
+2024.06.23 04:34:33 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+Jun 23, 2024 4:34:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+2024.06.23 04:34:36 WARN  Could not find semantic tokens for: file:///mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS%202204%20-%20Functional%20Programming/Practicals/22001239_Practical_2/Question%201/Question1.scala[0m
+2024.06.23 04:34:37 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:34:37 WARN  no build target for: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala[0m
+2024.06.23 04:34:37 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:34:37 WARN  Could not find semantic tokens for: file:///mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS%202204%20-%20Functional%20Programming/Practicals/22001239_Practical_2/Question%201/Question1.scala[0m
+2024.06.23 04:34:38 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+Jun 23, 2024 4:34:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 34
+2024.06.23 04:34:40 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:34:40 WARN  Could not find semantic tokens for: file:///mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS%202204%20-%20Functional%20Programming/Practicals/22001239_Practical_2/Question%201/Question1.scala[0m
+2024.06.23 04:34:41 WARN  no build target for: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala[0m
+2024.06.23 04:34:41 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:34:41 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:34:41 WARN  Could not find semantic tokens for: file:///mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS%202204%20-%20Functional%20Programming/Practicals/22001239_Practical_2/Question%201/Question1.scala[0m
+2024.06.23 04:34:43 INFO  BSP server: Error: java.lang.ArrayIndexOutOfBoundsException: Index -2147483648 out of bounds for length 354[0m
+2024.06.23 04:34:43 INFO  BSP server: For more details, please see '/mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/.scala-build/stacktraces/1719097483-7044891145131298929.log'[0m
+2024.06.23 04:34:43 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+Jun 23, 2024 4:34:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 63
+2024.06.23 04:34:43 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:34:45 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:34:45 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:34:46 WARN  no build target for: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala[0m
+2024.06.23 04:34:46 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:34:46 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:34:48 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:34:48 WARN  no build target for: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala[0m
+2024.06.23 04:34:49 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:34:49 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:35:04 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:35:05 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:35:04 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:35:04 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+Jun 23, 2024 4:35:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 114
+2024.06.23 04:35:05 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:35:06 WARN  no build target for: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala[0m
+2024.06.23 04:35:06 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:35:06 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:35:06 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:35:06 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:35:08 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:35:08 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:35:08 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:35:09 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:35:09 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:35:09 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:35:09 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:35:09 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:35:09 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:35:10 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:35:11 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:35:11 WARN  no build target for: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala[0m
+2024.06.23 04:35:11 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:35:31 ERROR Timeout waiting for 'build/initialize' response[0m
+2024.06.23 04:35:31 WARN  Retrying connection to the build server scala-cli[0m
+2024.06.23 04:35:31 INFO  Running BSP server List(/home/kasun_mendis/.local/share/coursier/bin/.scala-cli.aux, bsp, --json-options, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/.scala-build/ide-options-v2.json, --json-launcher-options, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/.scala-build/ide-launcher-options.json, --envs-file, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/.scala-build/ide-envs.json, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2)[0m
+2024.06.23 04:35:31 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/.metals/bsp.trace.json or /home/kasun_mendis/.cache/metals/bsp.trace.json[0m
+2024.06.23 04:35:31 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:35:31 INFO  BSP server: Starting compilation server[0m
+2024.06.23 04:35:32 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:35:32 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:35:32 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:35:34 INFO  time: Connected to build server in 1m3s[0m
+2024.06.23 04:35:34 INFO  Connected to Build server: scala-cli v1.3.2[0m
+2024.06.23 04:35:35 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:35:35 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:35:36 WARN  no build target for: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala[0m
+2024.06.23 04:35:36 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:35:36 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:35:36 WARN  no build target for: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala[0m
+2024.06.23 04:35:37 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:35:37 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.23 04:35:38 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:35:38 INFO  time: Imported build in 4.2s[0m
+2024.06.23 04:35:47 INFO  time: indexed workspace in 8.73s[0m
+2024.06.23 04:35:47 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:35:48 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 1.01s[0m
+2024.06.23 04:36:13 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:36:13 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.41s[0m
+2024.06.23 04:36:19 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:36:19 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.26s[0m
+2024.06.23 04:36:26 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:36:26 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.29s[0m
+2024.06.23 04:36:38 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:36:38 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.19s[0m
+2024.06.23 04:36:42 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:36:42 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.18s[0m
+2024.06.23 04:37:06 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:37:06 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.21s[0m
+2024.06.23 04:37:12 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:37:14 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 2.45s[0m
+2024.06.23 04:37:36 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:37:36 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.66s[0m
+2024.06.23 04:37:54 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:37:54 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.22s[0m
+2024.06.23 04:37:55 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:37:55 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.18s[0m
+2024.06.23 04:37:58 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:37:58 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.23s[0m
+2024.06.23 04:37:59 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:37:59 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.14s[0m
+2024.06.23 04:38:03 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:38:03 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.19s[0m
+2024.06.23 04:38:13 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:38:13 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.2s[0m
+2024.06.23 04:38:14 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:38:14 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.24s[0m
+2024.06.23 04:38:15 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:38:15 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.19s[0m
+2024.06.23 04:38:16 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:38:16 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.53s[0m
+2024.06.23 04:38:18 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:38:18 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.42s[0m
+2024.06.23 04:38:20 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:38:20 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.39s[0m
+Jun 23, 2024 4:38:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 514
+2024.06.23 04:38:23 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:38:23 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.18s[0m
+2024.06.23 04:38:24 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:38:24 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.13s[0m
+2024.06.23 04:38:29 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:38:29 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.51s[0m
+2024.06.23 04:38:31 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:38:31 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.39s[0m
+2024.06.23 04:38:34 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:38:34 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.42s[0m
+2024.06.23 04:38:37 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:38:37 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.14s[0m
+2024.06.23 04:39:08 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:39:08 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.46s[0m
+2024.06.23 04:39:28 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:39:28 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.48s[0m
+2024.06.23 04:39:35 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:39:35 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.38s[0m
+2024.06.23 04:39:38 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:39:38 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.43s[0m
+2024.06.23 04:40:03 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:40:03 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.26s[0m
+2024.06.23 04:40:09 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:40:09 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.33s[0m
+2024.06.23 04:40:12 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:40:12 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.18s[0m
+2024.06.23 04:40:12 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala[0m
+2024.06.23 04:40:13 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala[0m
+2024.06.23 04:40:14 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala[0m
+2024.06.23 04:40:14 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:40:14 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.11s[0m
+2024.06.23 04:40:14 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala[0m
+2024.06.23 04:40:17 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala[0m
+2024.06.23 04:40:17 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:40:17 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.27s[0m
+2024.06.23 04:40:20 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:40:20 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.26s[0m
+2024.06.23 04:40:28 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:40:28 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.17s[0m
+2024.06.23 04:40:31 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:40:31 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 90ms[0m
+2024.06.23 04:40:34 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:40:34 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 81ms[0m
+2024.06.23 04:40:38 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:40:38 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.22s[0m
+2024.06.23 04:40:49 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:40:49 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.22s[0m
+2024.06.23 04:40:59 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:40:59 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.24s[0m
+2024.06.23 04:41:02 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:41:03 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala[0m
+2024.06.23 04:41:03 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala[0m
+2024.06.23 04:41:02 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.52s[0m
+2024.06.23 04:41:05 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:41:05 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.13s[0m
+2024.06.23 04:41:09 ERROR Failed to tokenize input for semantic tokens for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala
+scala.meta.tokenizers.TokenizeException: <input>:26: error: unclosed character literal
+    var c=''
+          ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchSingleQuote$1(LegacyScanner.scala:414)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:419)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:214)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:982)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:16)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:16)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:331)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:514)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+[0m
+2024.06.23 04:41:11 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:41:11 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.37s[0m
+2024.06.23 04:41:12 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:41:12 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.26s[0m
+2024.06.23 04:41:13 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:41:13 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.29s[0m
+2024.06.23 04:41:15 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:41:15 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.28s[0m
+2024.06.23 04:41:34 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:41:34 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.22s[0m
+2024.06.23 04:41:36 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:41:36 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.23s[0m
+2024.06.23 04:41:40 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:41:40 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 93ms[0m
+2024.06.23 04:41:45 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:41:45 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 85ms[0m
+2024.06.23 04:41:46 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:41:46 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 82ms[0m
+2024.06.23 04:41:57 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:41:57 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.23s[0m
+2024.06.23 04:42:00 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:42:00 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.21s[0m
+2024.06.23 04:42:02 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:42:02 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.12s[0m
+2024.06.23 04:42:06 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:42:06 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.25s[0m
+2024.06.23 04:42:12 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:42:12 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.28s[0m
+2024.06.23 04:42:20 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:42:20 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.22s[0m
+2024.06.23 04:42:24 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:42:24 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.24s[0m
+2024.06.23 04:42:26 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:42:26 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.23s[0m
+2024.06.23 04:42:30 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:42:30 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 97ms[0m
+2024.06.23 04:42:36 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:42:36 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 86ms[0m
+2024.06.23 04:42:40 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:42:40 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.17s[0m
+2024.06.23 04:42:41 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:42:41 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.29s[0m
+2024.06.23 04:42:42 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:42:42 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.35s[0m
+2024.06.23 04:43:10 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:43:10 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 93ms[0m
+2024.06.23 04:43:11 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:43:11 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.26s[0m
+Jun 23, 2024 4:45:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1844
+2024.06.23 04:46:54 ERROR scalafmt: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala:33: error: [dialect scala3] ) expected but } found
+  }
+  ^[0m
+2024.06.23 04:46:58 ERROR scalafmt: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala:33: error: [dialect scala3] ) expected but } found
+  }
+  ^[0m
+2024.06.23 04:47:03 ERROR scalafmt: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala:33: error: [dialect scala3] ) expected but } found
+  }
+  ^[0m
+Jun 23, 2024 4:47:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2300
+Jun 23, 2024 4:48:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2329
+2024.06.23 04:50:20 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:50:20 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.16s[0m
+2024.06.23 04:50:25 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:50:26 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 1.65s[0m
+2024.06.23 04:50:26 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:50:28 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.5s[0m
+2024.06.23 04:50:34 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:50:34 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.13s[0m
+2024.06.23 04:50:38 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:50:38 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.17s[0m
+2024.06.23 04:50:39 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:50:39 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.14s[0m
+2024.06.23 04:50:41 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:50:41 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.13s[0m
+2024.06.23 04:50:43 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:50:43 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 99ms[0m
+2024.06.23 04:50:46 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:50:46 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.32s[0m
+2024.06.23 04:50:53 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:50:53 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.21s[0m
+2024.06.23 04:50:54 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:50:55 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 1.11s[0m
+2024.06.23 04:50:55 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:50:55 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.63s[0m
+2024.06.23 04:51:01 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:51:01 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.32s[0m
+2024.06.23 04:51:58 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:51:58 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.44s[0m
+2024.06.23 04:53:50 ERROR Failed to tokenize input for semantic tokens for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala
+scala.meta.tokenizers.TokenizeException: <input>:38: error: unclosed comment
+/*
+^
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:27)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:26)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipNestedComments(LegacyScanner.scala:55)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipToCommentEnd(LegacyScanner.scala:74)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:316)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:214)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:982)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:16)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:16)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:331)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:514)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+[0m
+2024.06.23 04:53:51 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:53:51 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.21s[0m
+2024.06.23 04:53:52 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:53:52 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.43s[0m
+2024.06.23 04:53:53 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:53:53 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.47s[0m
+Jun 23, 2024 4:53:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2590
+2024.06.23 04:53:56 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:53:56 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.4s[0m
+2024.06.23 04:54:03 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:54:03 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala[0m
+2024.06.23 04:54:03 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.35s[0m
+2024.06.23 04:54:09 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:54:09 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.27s[0m
+2024.06.23 04:54:13 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:54:13 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala[0m
+2024.06.23 04:54:13 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.32s[0m
+2024.06.23 04:54:16 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:54:16 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.28s[0m
+Jun 23, 2024 4:54:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2737
+2024.06.23 04:54:20 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:54:20 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.31s[0m
+2024.06.23 04:54:25 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:54:25 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.35s[0m
+Jun 23, 2024 4:54:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2855
+2024.06.23 04:54:43 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:54:43 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.28s[0m
+2024.06.23 04:54:45 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:54:45 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala[0m
+2024.06.23 04:54:45 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.28s[0m
+2024.06.23 04:54:53 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:54:53 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.27s[0m
+2024.06.23 04:54:59 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:54:59 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.22s[0m
+2024.06.23 04:55:05 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:55:05 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.25s[0m
+2024.06.23 04:55:18 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:55:18 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.26s[0m
+2024.06.23 04:55:30 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:55:30 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.29s[0m
+2024.06.23 04:55:33 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:55:33 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.26s[0m
+2024.06.23 04:55:49 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:55:49 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.23s[0m
+2024.06.23 04:55:53 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:55:53 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.28s[0m
+2024.06.23 04:56:05 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:56:05 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.22s[0m
+Jun 23, 2024 4:56:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3343
+Jun 23, 2024 4:56:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3350
+2024.06.23 04:56:25 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:56:25 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.21s[0m
+2024.06.23 04:56:27 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:56:27 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.26s[0m
+2024.06.23 04:56:37 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:56:37 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.21s[0m
+2024.06.23 04:56:43 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:56:43 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.23s[0m
+2024.06.23 04:56:48 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:56:48 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.22s[0m
+2024.06.23 04:56:50 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:56:50 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.21s[0m
+2024.06.23 04:56:57 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:56:57 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.22s[0m
+2024.06.23 04:57:03 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:57:03 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.19s[0m
+2024.06.23 04:57:09 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:57:09 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.22s[0m
+2024.06.23 04:57:11 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:57:11 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.2s[0m
+2024.06.23 04:57:16 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:57:16 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.28s[0m
+Jun 23, 2024 4:57:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3724
+Jun 23, 2024 4:57:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3733
+2024.06.23 04:58:00 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:58:00 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.28s[0m
+2024.06.23 04:58:03 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:58:03 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.29s[0m
+2024.06.23 04:58:04 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:58:04 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.2s[0m
+Jun 23, 2024 4:58:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3832
+Jun 23, 2024 4:58:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3834
+2024.06.23 04:58:30 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:58:30 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.21s[0m
+2024.06.23 04:58:36 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:58:36 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala[0m
+2024.06.23 04:58:36 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.24s[0m
+2024.06.23 04:58:43 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:58:43 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.24s[0m
+2024.06.23 04:58:50 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:58:50 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.25s[0m
+2024.06.23 04:58:53 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:58:53 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.22s[0m
+2024.06.23 04:59:02 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:59:02 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.22s[0m
+Jun 23, 2024 4:59:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4064
+2024.06.23 04:59:08 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:59:08 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals/22001239_Practical_2/Question 1/Question1.scala[0m
+2024.06.23 04:59:08 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.25s[0m
+2024.06.23 04:59:12 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:59:12 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.22s[0m
+2024.06.23 04:59:18 INFO  compiling 22001239_practical_2_f4dd477a3a (1 scala source)[0m
+2024.06.23 04:59:18 INFO  time: compiled 22001239_Practical_2_f4dd477a3a in 0.2s[0m
