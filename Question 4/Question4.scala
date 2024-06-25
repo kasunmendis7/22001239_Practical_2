@@ -13,12 +13,12 @@ price so that he can determine the price at which he can make the highest profit
 Implement a functional program to find out the best ticket price */
 object Question4 {
   def main(args: Array[String]): Unit = {
-    println("Current profit gained from the movie theater = " + profit(15, 120))
+    println("Current profit gained from the movie theater = Rs." + profit(15, 120))
     println(
-      "Profit gained from the movie theater if price is increased = " + priceIncrement(15, 120)
+      "Profit gained from the movie theater if price is increased = Rs." + priceIncrement(15, 120)
     )
     println(
-      "Profit gained from the movie theater if price is decreased = " + priceDecrement(15, 120)
+      "Profit gained from the movie theater if price is decreased = Rs." + priceDecrement(15, 120)
     )
   }
 

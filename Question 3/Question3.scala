@@ -4,7 +4,7 @@ object Question3 {
     var otHours = 30
     val totalSalary = normalPay(normalHours) + overTimePay(otHours);
     val finalSalary = totalSalary - taxDecrement(totalSalary)
-    println("Final salary of the employee = " + finalSalary)
+    println("Final salary of the employee = Rs." + finalSalary)
   }
 
   def normalPay(normalHours: Int): Double = {
